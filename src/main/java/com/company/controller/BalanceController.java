@@ -26,4 +26,5 @@ public class BalanceController {
         model.addAttribute("balance", balance);
         return "adm_balance";
     }
+    // test
 }
